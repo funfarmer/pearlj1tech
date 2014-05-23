@@ -1,0 +1,5 @@
+---
+applications:
+- name: pearlapp1
+  memory: 64M
+  host: pearlapphost
